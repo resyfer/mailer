@@ -3,6 +3,13 @@ A mailer for long list of email IDs
 
 ## Instructions for use
 
+Install the dependencies
+```
+npm i
+```
+
+<br/>
+
 Copy the `.env.example` to `.env`
 ```
 cp .env.example .env
