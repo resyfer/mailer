@@ -3,6 +3,14 @@ A mailer for long list of email IDs
 
 ## Instructions for use
 
+Clone the repo
+```
+git clone https://github.com/resyfer/mailer.git
+cd mailer
+```
+
+<br/>
+
 Install the dependencies
 ```
 npm i
