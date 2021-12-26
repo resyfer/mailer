@@ -42,4 +42,9 @@ and paste this sample in it
   }
 }
 ```
-and change the required values.
+and change the required values
+
+and send the mails using
+```
+npm start
+```
